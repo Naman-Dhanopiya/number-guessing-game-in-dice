@@ -1,5 +1,6 @@
 #rolling of a dice game
-# number guessing game
+'''number guessing game i.e. user will give a static number as input (between 1 to 6) and then 
+roll the dice which randomly generate some value between 1 to 6.'''
 import random
 f="y"
 a=0
